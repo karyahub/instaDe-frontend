@@ -1,0 +1,33 @@
+.sidebar{
+    background: #F0F0F0;
+    color: black;
+    height: 100vh;
+
+    .top_section{
+        padding-top: 25px;
+        padding-left: 19px;
+    }
+    .projects_heading{
+        // font-weight: 600;
+        // font-size: 16px;
+        // line-height: 24px;
+        padding-left: 19px;
+        padding-top: 15px;
+        font-variant-caps: all-small-caps;
+
+        hr{
+            width: 90%;
+            color: #C5C7D0;
+            
+        }
+        // .project_section{
+        //     padding-left: 19px;
+        // }
+    }
+    .footer-section{
+        position: absolute;
+        left: 20px;
+        right: 0;
+        bottom: 10px;
+    }
+}
